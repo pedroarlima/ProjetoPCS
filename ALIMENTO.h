@@ -2,7 +2,9 @@
 #define ALIMENTOH
 #include <string>
 
-class alimento
+using namespace std;
+
+class Alimento
 {
   public:
     int pontos;
